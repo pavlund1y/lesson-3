@@ -1,0 +1,12 @@
+.idea/
+logs/
+drvs/
+out/
+build/
+target/
+allure-results/
+.allure/
+*.class
+*.iml
+set_OS_variables.sh
+resources/hibernate.cfg.xml
